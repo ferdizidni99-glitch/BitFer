@@ -1,45 +1,16 @@
 [
-  { "name": "contract-runner.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/contract-runner.js"
-  },
-  { "name": "controller-purchased.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/controller-purchased.js"
-  }
-  { "name": "controller-rooted",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/controller-rooted.js"
-  }
-  { "name": "controller-smart.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/controller-smart.js"
-  }
-  { "name": "grow-loop.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/grow-loop.js"
-  }
-  { "name": "grow.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/grow.js"
-  }
-  { "name": "hack.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/hack.js"
-  }
-  { "name": "hacknet-manager.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/hacknet-manager.js"
-  }
-  { "name": "host-batcher-smart.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/host-batcher-smart.js"
-  }
-  { "name": "tiny-worker.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/tiny-worker.js"
-  }
-  { "name": "weaken-loop.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/weaken-loop.js"
-  }
-  { "name": "weaken.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/weaken.js"
-  }
-  { "name": "worker-simple.js",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/worker-simple.js"
-  }
-  { "name": "worker.j",
-    "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/worker.js"
-  }
-  
+  { "name": "contract-runner.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/contract-runner.js" },
+  { "name": "controller-purchased.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/controller-purchased.js" },
+  { "name": "controller-rooted.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/controller-rooted.js" },
+  { "name": "controller-smart.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/controller-smart.js" },
+  { "name": "grow-loop.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/grow-loop.js" },
+  { "name": "grow.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/grow.js" },
+  { "name": "hack.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/hack.js" },
+  { "name": "hacknet-manager.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/hacknet-manager.js" },
+  { "name": "host-batcher-smart.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/host-batcher-smart.js" },
+  { "name": "tiny-worker.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/tiny-worker.js" },
+  { "name": "weaken-loop.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/weaken-loop.js" },
+  { "name": "weaken.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/weaken.js" },
+  { "name": "worker-simple.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/worker-simple.js" },
+  { "name": "worker.js", "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/main/template/worker.js" }
 ]
