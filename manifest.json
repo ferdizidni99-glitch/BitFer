@@ -17,22 +17,17 @@
   { "name": "grow.js",
     "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/grow.js"
   }
-  }
   { "name": "hack.js",
     "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/hack.js"
-  }
   }
   { "name": "hacknet-manager.js",
     "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/hacknet-manager.js"
   }
-  }
   { "name": "host-batcher-smart.js",
     "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/host-batcher-smart.js"
   }
-  }
   { "name": "tiny-worker.js",
     "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/tiny-worker.js"
-  }
   }
   { "name": "weaken-loop.js",
     "url": "https://raw.githubusercontent.com/ferdizidni99-glitch/BitFer/refs/heads/main/template/weaken-loop.js"
